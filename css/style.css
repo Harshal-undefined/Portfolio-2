@@ -110,7 +110,7 @@ nav {
     linear-gradient(90deg, rgba(0,229,255,0.035) 1px, transparent 1px);
   background-size: 30px 30px;
 }
-.hero-inner { position: relative; max-width: 300px; }
+.hero-inner { position: relative; max-width: 100px; }
 .hero-eyebrow {
   font-size: 0.65rem; letter-spacing: 0.35em;
   color: var(--magenta); text-transform: uppercase; margin-bottom: 1.4rem;
